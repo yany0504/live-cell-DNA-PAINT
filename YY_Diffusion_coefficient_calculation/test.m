@@ -1,0 +1,2 @@
+All_steps('D:\mydocument\MATLAB\PALM_tracking_AnalysisCode\PALM_1-3_SNR1_5.xls','D:\mydocument\MATLAB\PALM_tracking_AnalysisCode\Tracking1-3.xls',600,0.79,50,500,1)
+% one_step('D:\mydocument\MATLAB\for codes\homer_drift correction.txt','D:\mydocument\MATLAB\for codes\drift from psd.xls','D:\mydocument\MATLAB\for codes\psd_drift correction.txt');
